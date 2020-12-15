@@ -1,1 +1,1 @@
-# Machine-Learning-Multiclass-Classification-Forest-Cover-Type-
+## This repository includes different Multi-Class Classification ML algorithms for ***Tree Types Prediction***. EDA processes, handling outliers and feature engineering are implemented to make the data ready for ML algorithms. For feature engineering, ***sqlite3*** library is used. 
